@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "pertarius.aternos.me",
+    "port": 50340,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -69,8 +69,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,

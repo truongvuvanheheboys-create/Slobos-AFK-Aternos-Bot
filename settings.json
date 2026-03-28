@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pertarius.aternos.me",
-    "port": 50340,
+    "ip": "kdir.aternos.me",
+    "port": 22119,
     "version": "1.21.11",
     "try-creative": false
   },
